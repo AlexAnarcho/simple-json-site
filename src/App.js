@@ -36,7 +36,7 @@ function TableRow({info}) {
       <td>{info.ended}</td>
       <td>{info.duration}</td>
       <td>{info.drawdown}</td>
-      <td>{info.higheslowest}</td>
+      <td>{info.highestlowest}</td>
       <td>{info.leverage}</td>
       <td>{info.stoploss}</td>
       <td>{info.stopouts}</td>
